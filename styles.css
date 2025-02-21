@@ -44,6 +44,10 @@ body {
 
 
 /* helper classes */
+.highlight {
+    color: #ffcb6b;
+}
+
 .grid {
     display: grid;
     gap: 1rem;
